@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: f612be26edf0d184e9a2d45b8b6bea98
+timeCreated: 1432029111
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlarmBot_0
+    21300002: AlarmBot_1
+    21300004: AlarmBot_2
+    21300006: AlarmBot_3
+    21300008: AlarmBot_4
+    21300010: AlarmBot_5
+    21300012: AlarmBot_6
+    21300014: AlarmBot_7
+    21300016: AlarmBot_8
+    21300018: AlarmBot_9
+    21300020: AlarmBot_10
+    21300022: AlarmBot_11
+    21300024: AlarmBot_12
+    21300026: AlarmBot_13
+    21300028: AlarmBot_14
+    21300030: AlarmBot_15
+    21300032: AlarmBot_16
+    21300034: AlarmBot_17
+    21300036: AlarmBot_18
+    21300038: AlarmBot_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AlarmBot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 824
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 824
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 824
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 824
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 624
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 624
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 624
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_9
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 624
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 424
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 424
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 424
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 424
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 224
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 224
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 224
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AlarmBot_19
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 224
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

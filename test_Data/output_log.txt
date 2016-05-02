@@ -1,0 +1,78 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\Vectrosity.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+desktop: 2560x1440 144Hz; virtual: 4480x2640 at 0,-1200
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Windows 8 backup 7-6-2015\Trillian\GitHub\HEAT\test_Data\Managed\System.dll (this message is harmless)
+Shader 'FORGE3D/Burnout': fallback shader 'Transparent' not found
+Rekt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.483705 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 3551.
+Total: 0.782760 ms (FindLiveObjects: 0.096172 ms CreateObjectMapping: 0.075416 ms MarkObjects: 0.569888 ms  DeleteObjects: 0.041052 ms)
+
+Rekt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.302429 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 3553.
+Total: 0.997246 ms (FindLiveObjects: 0.118544 ms CreateObjectMapping: 0.104936 ms MarkObjects: 0.722565 ms  DeleteObjects: 0.050508 ms)
+
+Rekt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.078962 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 3555.
+Total: 0.768230 ms (FindLiveObjects: 0.096172 ms CreateObjectMapping: 0.063654 ms MarkObjects: 0.563891 ms  DeleteObjects: 0.043819 ms)
+
+Rekt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.069261 ms
+
+Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 3557.
+Total: 1.100338 ms (FindLiveObjects: 0.140223 ms CreateObjectMapping: 0.097556 ms MarkObjects: 0.808360 ms  DeleteObjects: 0.053736 ms)
+
+Rekt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.241989 ms
+
+Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 3559.
+Total: 0.959192 ms (FindLiveObjects: 0.122926 ms CreateObjectMapping: 0.090868 ms MarkObjects: 0.695120 ms  DeleteObjects: 0.049816 ms)
+
