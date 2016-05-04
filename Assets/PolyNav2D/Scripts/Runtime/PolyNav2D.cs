@@ -323,18 +323,20 @@ public class PolyNav2D : MonoBehaviour {
 		return true;
 	}
 
-	///determine if a point is within a valid (walkable) area.
-	public bool PointIsValid (Vector2 point){
+    ///determine if a point is within a valid (walkable) area.
+    public bool PointIsValid(Vector2 point)
+    {
 
-o
-			if (i == 0? !PointInsidePolygon(map.allPolygons[i].points, point) : PointInsidePolygon(map.allPolygons[i].points, point))
-				return false;
-		}
-		return true;
-	}
+        for (int i = 0; i < map.allPolygons.Length; i++)
+        {
+            if (i == 0 ? !PointInsidePolygon(map.allPolygons[i].points, point) : PointInsidePolygon(map.allPolygons[i].points, point))
+                return false;
+        }
+        return true;
+    }
 
-	///Kind of scales a polygon based on it's vertices average normal.
-	public static Vector2[] InflatePolygon(Vector2[] points, float dist){
+    ///Kind of scales a polygon based on it's vertices average normal.
+    public static Vector2[] InflatePolygon(Vector2[] points, float dist){
 
 		var inflatedPoints = new Vector2[points.Length];
 
