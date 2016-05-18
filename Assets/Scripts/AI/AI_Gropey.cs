@@ -173,7 +173,7 @@ public class AI_Gropey : MonoBehaviour {
         return Quaternion.Euler(0, 0, Mathf.Atan2(player.position.y - transform.position.y, player.position.x - transform.position.x) * Mathf.Rad2Deg - 90);
     }
 
-    void OnTriggerEnter2D(Collider2D collider)
+    void OnCollisionEnter2D(Collision2D collider)
     {
         if(collider.gameObject.tag == "Player" && !playerScript.Dead)
         {
@@ -184,7 +184,7 @@ public class AI_Gropey : MonoBehaviour {
             scanner.DetectionPoints = 0;
             //Pick him up
             PickUpPlayer();
-            GetComponentInParent<BoxCollider2D>().enabled = false;
+            //GetComponentInParent<BoxCollider2D>().enabled = false;
         }
     }
 }
